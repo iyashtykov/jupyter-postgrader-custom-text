@@ -1,0 +1,18 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": true,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"open-two-ipynb-files-b0fc"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "jupyter postgrader project",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

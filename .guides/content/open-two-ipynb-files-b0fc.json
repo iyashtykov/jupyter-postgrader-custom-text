@@ -1,0 +1,25 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "hw3_BVP_2_source.ipynb"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "hw4_ivp_source.ipynb"
+		}
+	],
+	"id": "b0fc4663-ad64-091f-d231-93071bd2f0cb",
+	"layout": "3-columns-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "open two ipynb files",
+	"type": "page"
+}

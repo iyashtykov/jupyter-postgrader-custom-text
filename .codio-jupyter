@@ -1,0 +1,2 @@
+codio:
+  postGrader: .guides/secure/postgrader.py
